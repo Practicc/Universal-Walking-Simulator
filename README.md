@@ -1,4 +1,5 @@
 ### SKIDDED WITH PERMISSION FROM GEOMETRY DASH</a>!
+### This repository was made with the intent of making the UI easier to use for beginners</a>.
 ### original repo: https://github.com/Milxnor/Universal-Walking-Simulator</a>.
 
 ### FYI: This isn't 100% universal, there are bugs on almost every season and some seasons have no support at all.<br> <a href="https://discord.gg/reboot">Discord Server</a>.
